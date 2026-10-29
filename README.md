@@ -35,7 +35,7 @@ LICENSE     MIT
 ## Instalar
 
 ```bash
-git clone https://github.com/SEU-USUARIO/critique-de-fluxo.git ~/.claude/skills/critique-de-fluxo
+git clone https://github.com/pedromantovanidesign/critique-de-fluxo.git ~/.claude/skills/critique-de-fluxo
 ```
 
 O Claude Code carrega a skill sozinho quando o assunto aparece, ou com `/critique-de-fluxo`.
